@@ -86,7 +86,7 @@ Outlet_Type
 
 ![image](https://github.com/user-attachments/assets/773aea64-a6db-41cb-ad9f-768bfa30c8b5)
 
-**For dataset first you have to follow on linkedin and by attach screenshot forward email to me by typing: Please provide me the dataset of sales prediction Analysis**
+# For dataset first you have to follow on linkedin and by attach screenshot forward email to me by typing: Please provide me the dataset of sales prediction Analysis
 
 **E-mail: jhad61840@gmail.com**
 
