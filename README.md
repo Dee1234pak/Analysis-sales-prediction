@@ -40,10 +40,15 @@ Accurate sales predictions empower businesses to make informed decisions, improv
 # Categorical Features:
 
 Item_Identifier 
+
 Item_Fat_Content 
+
 Item_Type Outlet_Identifier 
+
 Outlet_Size 
+
 Outlet_Location_Type 
+
 Outlet_Type
 
 
