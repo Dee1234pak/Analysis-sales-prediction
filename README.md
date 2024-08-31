@@ -88,7 +88,7 @@ Outlet_Type
 
 # For dataset first you have to follow on linkedin and by attach screenshot forward email to me by typing: Please provide me the dataset of sales prediction Analysis
 
-**E-mail: jhad61840@gmail.com**
+**E-mail: djha74355@gmail.com**
 
 # FOLLOW ME ON LINKEDIN: 
 
